@@ -1,4 +1,5 @@
 == README
+Ruby on rails tutorials: This is a sample app that I will use to strengthen my coding skills and will learn 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
